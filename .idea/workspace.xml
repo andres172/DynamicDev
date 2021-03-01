@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2205508-c06c-4cab-893c-f30d886f631f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pAf5GSyrjNhcOP2vAiuqRH3oH2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.Principal.validateMaxValue">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="DynamicDevs.Exercise.Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal.validateMaxValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DynamicDevs.Exercise.Array" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <option name="METHOD_NAME" value="validateMaxValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Principal.validateMaxValue" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2205508-c06c-4cab-893c-f30d886f631f" name="Default Changelist" comment="" />
+      <created>1614630631124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614630631124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="11" key="#Project_Structure" timestamp="1614630680204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="271" y="11" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1614630680204" />
+    <state x="133" y="8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614633035947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="8" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1614633035947" />
+    <state x="408" y="137" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614633034570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="137" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1614633034570" />
+    <state x="433" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614636055463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1614636055463" />
+    <state width="1286" height="99" key="GridCell.Tab.0.bottom" timestamp="1614636397991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="99" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614636397991" />
+    <state width="1286" height="99" key="GridCell.Tab.0.center" timestamp="1614636397990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="99" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614636397990" />
+    <state width="1286" height="99" key="GridCell.Tab.0.left" timestamp="1614636397990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="99" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614636397990" />
+    <state width="1286" height="99" key="GridCell.Tab.0.right" timestamp="1614636397990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="99" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614636397990" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1614635299341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614635299341" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1614635299340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614635299340" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1614635299340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614635299340" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1614635299341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614635299341" />
+  </component>
+</project>
